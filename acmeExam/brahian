@@ -1,0 +1,18 @@
+[
+    {
+        "identificacion": "1010",
+        "nombre": "brahian",
+        "cargo": "develooper",
+        "salario": 10000000000000.0,
+        "faltas": [
+            "10-10-2022"
+        ],
+        "bonos": [
+            {
+                "fecha": "10-10-2024",
+                "valor": 200000,
+                "concepto": "sesantias"
+            }
+        ]
+    }
+]
